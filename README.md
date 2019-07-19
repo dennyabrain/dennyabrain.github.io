@@ -92,6 +92,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-This website is deployed on github pages. Run `npm run deploy` and the site will go live [here](https://dennyabrain.github.io/dennyabrain/)
+This website is deployed on github pages. Run `npm run deploy` and the site will go live [here](https://dennyabrain.github.io/)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
